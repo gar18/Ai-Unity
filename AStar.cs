@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 //Class that holds information about a
-// certain position, so its used in a
-// pathfinding algorithm
+// certain position, so its used in pathfinding algorithm
 class Node
 {
     //every node may hae different values, 
